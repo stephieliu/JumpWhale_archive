@@ -1,4 +1,4 @@
-# ICSSummative2
+# Jump Whale
 Most updated version
 
 Summative project for ICS.
